@@ -4,8 +4,10 @@
 
 ## 참고 ##
 - 실습시 필요한 모듈 Jupyter에서 직접 설치
--   pip install openpyxl
--   pip install matplotlib
+```bash
+pip install openpyxl
+pip install matplotlib
+```
 
 ## 10 minutes to pandas ##
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
